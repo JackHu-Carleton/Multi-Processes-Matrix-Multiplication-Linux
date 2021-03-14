@@ -1,0 +1,11 @@
+Author: Zijun Hu
+Date: 2021/02/21
+
+MMULT is a program that calculates the multiplication result of two matrices. And there are some specialties in this project.
+
+1. MMULT.c include three test data(hardcode), and the test ran is based on the input argument
+2. MMULT.c includes a function called print_matrix which could printout the corresponding matrix based on the function input parameter.
+  - This function is used when a matrix needs to be printed out on the console.
+3. MMULT.h includes the structure of the shared memory used in this project.
+4. Project used gettimeofday to calculate and printout the time used on calculation.
+5. Each child Process only works on one row, and the child process automatically exits after finish the row.
