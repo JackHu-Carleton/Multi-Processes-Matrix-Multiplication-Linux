@@ -1,5 +1,6 @@
 /*
  * Author: Zijun Hu
+ * Copyright © 2021 Zijun Hu. All rights reserved.
  */
 #include <unistd.h>
 #include <stdlib.h>

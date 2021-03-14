@@ -1,5 +1,6 @@
 /*
  * Author: Zijun Hu
+ * Copyright © 2021 Zijun Hu. All rights reserved.
  */
 #ifndef MMULT_h
 #define MMULT_h
